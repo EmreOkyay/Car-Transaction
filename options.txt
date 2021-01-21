@@ -1,0 +1,5 @@
+heated seats,5000
+led lightings,3500
+leather seats,6600
+park sensors,820
+panaromic ceiling,12300
